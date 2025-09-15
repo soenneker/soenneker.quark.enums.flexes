@@ -8,4 +8,5 @@ namespace Soenneker.Quark.Enums.Flexes;
 [Intellenum<string>]
 public partial class Flex
 {
+    public static readonly Flex Display = new("display");
 }
