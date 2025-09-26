@@ -1,6 +1,6 @@
 ﻿using Intellenum;
 
-namespace Soenneker.Quark.Enums.Flexes;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// An HTML CSS in a .NET enumeration form
